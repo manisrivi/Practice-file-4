@@ -1,0 +1,164 @@
+/*body{
+    background-color: #313139;
+    padding-top: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.container1{
+    background-color:#171721 ;
+    color: white;
+    height: 80vh;
+    padding: 40px;
+    border-radius: 50px;
+}
+*/
+/* .container2{
+    background-color: #1E1E26;
+    color: aliceblue;
+    position: relative;
+    height: 100vh;
+    width: 450px;
+    bottom: 90px;
+    left: 1110px;
+    opacity: 0.8;
+} */
+/*
+.menu-line{
+
+    width: 300px;
+    height: 10vh;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.left_side_icon{
+
+    width: 20px;
+    height: 40vh;
+    padding-top: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.task{
+    position: relative;
+    bottom: 35px;
+}
+*/
+
+/*
+
+body{
+background-color: #313139;
+margin-top: 30px;
+margin-left: 100px;
+margin-right: 100px;
+
+}
+
+.container{
+    background-color: #171721;
+    height: 80vh;
+    border-radius: 50px;
+    padding: 30px;
+}
+
+.doted_icon{
+    background-color: aqua;
+}
+*/
+
+/*
+body{
+    background-color: blueviolet;
+}
+
+.container{
+    background-color: rgb(0, 255, 55);
+    padding: 10px;
+    border: solid 5px red;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-auto-rows: 100px;
+    grid-gap: 10px;
+}
+
+.box{
+    background-color: brown;    
+    padding: 10px;
+    margin: 10px;
+    border: solid 5px black;
+}
+.box1{
+    grid-column: span 2;
+    grid-row: span 3;
+    display: grid;
+}
+.box12{
+    grid-column: span 3;
+}
+.box9{
+    grid-row: span 2;
+}
+.name1{
+    display: grid;
+    background-color: aqua;
+    text-align: center;
+}
+.name{
+     display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px; 
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}
+*/
+
+
+/* .container{
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+    justify-content: end;
+    align-items: flex-end;
+    height: 50vh;
+}
+.box{
+    border: 2px solid red;
+    margin: 3px 3px;
+    width: 150px;
+    height: 100px;
+}
+
+@media only screen and (max-width: 320px) {
+    .container {
+        width: 75px;
+    }
+    .box{
+        width: 100px;
+    }
+  }
+   */
+
+
+
+   .zoom {
+    padding: 50px;
+    background-color: green;
+    transition: transform .2s; /* Animation */
+    /* width: 200px;
+    height: 200px;
+    margin: 0 auto; */
+  }
+  
+  .zoom:hover {
+    transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
+
